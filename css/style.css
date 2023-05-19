@@ -1,0 +1,38 @@
+body{background-color: #F3EBE5
+
+
+
+;
+
+}
+.nav-wrapper{
+	background-color: #500805
+
+;
+
+}
+.page-footer{
+	background-color: #500805
+;
+}
+.your-class
+{
+	margin-top: 30px;
+	width: 1000px;
+
+}
+.leftimg {
+float:left; /* Вирівнювання по лівому краю */
+margin: 7px 7px 7px 0; /* Відступи навколо картинки */
+}
+.rightimg {
+float: right; /* Вирівнювання по правому краю */
+margin: 0 7px 7px 7px; /* Відступи навколо картинки */
+}
+.who{
+	text-align: center;
+	font-size: 20px;
+}
+p {
+font-family: Georgia, serif;
+}
